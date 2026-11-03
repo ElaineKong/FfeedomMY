@@ -1,0 +1,11 @@
+{
+  "name": "Ffeedom — Brewed Coffee & Concentrated Brews",
+  "short_name": "Ffeedom",
+  "lang": "en",
+  "start_url": "./",
+  "scope": "./",
+  "display": "browser",
+  "background_color": "#f5f0e6",
+  "theme_color": "#27332b",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
